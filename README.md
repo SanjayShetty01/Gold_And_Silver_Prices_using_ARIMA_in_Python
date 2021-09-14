@@ -1,1 +1,1 @@
-# Gold_And_Silver_Prices_using_ARIMA_in_Python
+# Gold And Silver Prices using ARIMA in Python
