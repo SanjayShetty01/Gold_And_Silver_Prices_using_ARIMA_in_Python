@@ -8,6 +8,6 @@ My work during the Course can be found [here](https://github.com/SanjayShetty01/
 
 ### The Dataset
 
-The data was pulled using [yahoofinancials package](https://pypi.org/project/yahoofinancials/), Although not important to the project, the package also allows the user to pull down financial statements from Yahoo! Finance. 
+The data was pulled using [yahoofinancials](https://pypi.org/project/yahoofinancials/) package, Although not important to the project, the package also allows the user to pull down financial statements from Yahoo! Finance. 
 
 
