@@ -8,6 +8,6 @@ My work during the Course can be found [here](https://github.com/SanjayShetty01/
 
 ### The Dataset
 
-The data was pulled using [yahoofinancials](https://pypi.org/project/yahoofinancials/) package, Although not important to the project, the package also allows the user to pull down financial statements from Yahoo! Finance, So do check it out! The data pulled from yahoo! Finance are Gold and Silver future prices from [COMEX](https://www.cmegroup.com/)
+The data was pulled using [yahoofinancials](https://pypi.org/project/yahoofinancials/) package, Although not important to the project, the package also allows the user to pull down financial statements from Yahoo! Finance, So do check it out! The data pulled from yahoo! Finance are Gold and Silver future prices from [COMEX](https://www.cmegroup.com/) The data consists of both bullion's OHLC prices from September 2016- September 2021. 
 
 
