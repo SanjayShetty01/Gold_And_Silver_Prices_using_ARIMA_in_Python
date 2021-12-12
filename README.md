@@ -12,4 +12,4 @@ The data was pulled using [yahoofinancials](https://pypi.org/project/yahoofinanc
 
 ### Preprocessing
 
-The preprocessing was done using basic techniques like dropping all the rows with missing values and later only the closing price of the data was kept, since we would only be predicting the closing price of the Gold and the Silver.  
+The preprocessing was done using basic techniques like dropping all the rows with missing values and later only the closing price of the data was kept and all other(i.e Open, High and Low) were dropped. since we would only be predicting the closing price of the Gold and the Silver.  
